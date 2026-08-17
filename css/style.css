@@ -54,8 +54,13 @@ ul.list {
     list-style: none;
 }
 
-
 li {
     padding: 0 10px;
     margin-top: 30px;
+}
+
+.snsIcon {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
 }
